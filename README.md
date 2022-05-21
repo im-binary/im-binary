@@ -19,6 +19,11 @@
 - 📚 책 읽는 걸 좋아합니다.
 - 💙 귀여운 것들을 좋아합니다.
 
+### Educations
+- 빔캠프 CSS 첫걸음
+- 일팔공 REACT 기초반
+- CodeStates ing ...
+
 ### Blogs
 
 - 바로가기 [ 👉 pongdang.world](https://pongdang.world)
