@@ -20,7 +20,7 @@
 - 💙 귀여운 것들을 좋아합니다.
 
 ### Educations
-- 빔캠프 CSS 첫걸음
+
 - 일팔공 REACT 기초반
 - CodeStates ing ...
 
