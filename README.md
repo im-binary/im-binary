@@ -1,5 +1,8 @@
 # 안녕하세요 👋 전이진 입니당 👻
 
+## My portfolio
+[👉 보러가기](profile-pongdang.vercel.app/)
+
 ### 🤔 저는 이런 고민을 합니당 
 
 - 좋은 사용자 경험은 무엇일까?
