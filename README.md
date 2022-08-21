@@ -1,7 +1,7 @@
 # 안녕하세요 👋 전이진 입니당 👻
 
 ## My portfolio
-[👉 보러가기](profile-pongdang.vercel.app/)
+[👉 보러가기](https://profile-pongdang.vercel.app/)
 
 ### 🤔 저는 이런 고민을 합니당 
 
@@ -24,6 +24,7 @@
 
 ### Educations
 
+- 빔캠프 CSS 첫걸음
 - 일팔공 REACT 기초반
 - CodeStates ing ...
 
