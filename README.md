@@ -1,6 +1,6 @@
 # 안녕하세요 👋 전이진 입니당 👻
 
-## [👉 My portfolio](https://profile-pongdang.vercel.app/)
+## [👉 My portfolio](https://profile.pongdang.me/)
 
 ### 🤔 저는 이런 고민을 합니당 
 
