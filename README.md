@@ -4,8 +4,7 @@
 
 ## Blogs
 
-- [ 🧡 pongdang.world](https://pongdang-today.vercel.app/blog)
-- [ 💛 blog.pongdang.today](https://blog.pongdang.today)
+- [ 🧡 pongdang/blog](https://www.pongdang.today/)
 - [ 💚 velog.io/@pongdang](https://velog.io/@pongdang)
 
 ## Contact
