@@ -1,11 +1,12 @@
-# 안녕하세요 😺 전이진 입니당 👻 
+# 안녕하세요👋 전이진 입니당
 
-❤️ 자세한 내용은 [프로필](https://profile.pongdang.me/resume) 을 확인해주세요!
+[❤️ 자세히 보기 ...](https://profile.pongdang.me/resume)
 
 ## Blogs
 
-- [ 🧡 pongdang/blog](https://www.pongdang.today/)
 - [ 💚 velog.io/@pongdang](https://velog.io/@pongdang)
+- [ 🧡 pongdang/blog](https://www.pongdang.today/)
+
 
 ## Contact
 
