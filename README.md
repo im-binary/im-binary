@@ -1,4 +1,4 @@
-# 안녕하세요👋 전이진 입니당
+# 안녕하세요 👋 전이진 입니다!
 
 [❤️ 자세히 보기 ...](https://profile.pongdang.me/resume)
 
